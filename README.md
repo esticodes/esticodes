@@ -21,6 +21,6 @@
 [![Languages](https://skillicons.dev/icons?i=cpp,py,html,css,java)](https://skillicons.dev)
 
 ### 🧰 Tools & Software
-[![Tools](https://skillicons.dev/icons?i=git,vscode,notion,canva,ae)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,notion,ae)](https://skillicons.dev)
 
 </div>
