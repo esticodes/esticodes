@@ -9,9 +9,9 @@
 
 ## 🏆 Achievements
 
-*  **Competed in the **National Cyberchallenge Competition** (2026)
+*  Competed in the **National Cyberchallenge Competition** (2026)
 *  Qualified & Competed in the **Territorial Olicyber Competition** (2026)
-*  Competed in the Team Informatics Olympiads
+*  Competed in the **Team Informatics Olympiads**
 
 ## 🛠️ Tech Stack
 
