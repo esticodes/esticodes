@@ -1,26 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hi+I'm+Ester" alt="Ester" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hi+I'm+Ester+!" alt="Ester" />
 
-### 🚀 IT student | Cybersec enthusiast 
-
-</div>
-
-
-## 🏆 Achievements
-
-*  Competed in the **National Cyberchallenge Competition** (2026)
-*  Qualified & Competed in the **Territorial Olicyber Competition** (2026)
-*  Competed in the **Team Informatics Olympiads**
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-[![Languages](https://skillicons.dev/icons?i=cpp,py,html,css,java)](https://skillicons.dev)
-
-### 🧰 Tools & Software
-[![Tools](https://skillicons.dev/icons?i=git,vscode,notion,ae)](https://skillicons.dev)
+## Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </div>
